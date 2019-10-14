@@ -1,5 +1,4 @@
 # coding: utf-8
-# coding: utf-8
 # PyGOST -- Pure Python GOST cryptographic functions library
 # Copyright (C) 2015-2019 Sergey Matveev <stargrave@stargrave.org>
 #

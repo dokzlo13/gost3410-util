@@ -22,24 +22,33 @@ Util can create and verify signatures by gost341012 with hash function gost34111
 ## Installation:
 
 1. Download sources
-  ```bash
-  $ git clone https://github.com/dokzlo13/gost3410-util.git
-  ```
-2. Install requirements
-  in virtualenv
-  ```bash
-  $ virtualenv --python=python3 ./venv 
-  $ source ./venv/bin/activate
-  [venv]$ pip install -r requirements.txt   
-  ```
-  in system interpreter
-  ```bash
-  $ sudo pip install -r requirements.txt   
-  ```
+
+	```bash
+	$ git clone https://github.com/dokzlo13/gost3410-util.git
+	$ cd gost3410-util
+	```
+  
+2. Install requirements:
+
+	in virtualenv
+	
+	```bash
+	$ virtualenv --python=python3 ./venv 
+	$ source ./venv/bin/activate
+	[venv]$ pip install -r requirements.txt   
+	```
+	
+	in system interpreter
+	
+	```bash
+	$ sudo pip install -r requirements.txt   
+ 	```
+	
 3. Run util
-  ```bash
-  $ python shell.py  
-  ```
+
+	```bash
+	$ python shell.py  
+	```
 
 ## Info
 
